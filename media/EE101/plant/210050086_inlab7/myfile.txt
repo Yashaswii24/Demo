@@ -1,0 +1,15 @@
+.
+├── 210050086_inlab7
+│   ├── Q1
+│   │   ├── Matrix.class
+│   │   └── Matrix.java
+│   ├── Q2
+│   │   └── Main.java
+│   └── Q3
+│       ├── Car.java
+│       ├── PollutionCheck.java
+│       ├── Truck.java
+│       └── Vehicle.java
+└── myfile.txt
+
+4 directories, 8 files

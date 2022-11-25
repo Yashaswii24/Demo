@@ -1,0 +1,13 @@
+.
+├── Resources
+│   ├── Q1
+│   │   ├── polygon_land.py
+│   │   └── test_polygon_land.py
+│   ├── Q2
+│   │   └── grader.py
+│   └── Q3
+│       ├── example_input.csv
+│       └── pandas_avg.py
+└── myfile.txt
+
+4 directories, 6 files
